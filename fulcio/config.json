@@ -1,0 +1,9 @@
+{
+    "OIDCIssuers": {
+      "http://sign-excid:6001": {
+        "IssuerURL": "http://sign-excid:6001",
+        "ClientID": "sigstore",
+        "Type": "email"
+      }
+    }
+ }
